@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    background-color: #47c2d1;
+}
+section img {
+    margin: 10px;
+        width: 150px;
+}
+
+h1{
+    color: #e20618;
+    font-size: 64px;
+}
+.blåBox{
+    display: block;
+    background-color: #279dca;
+
+}
+.hvidBox{
+display: block;
+        background-color: white;
+
+}
+footer{
+    background-color: #0fa7c4;
+}
